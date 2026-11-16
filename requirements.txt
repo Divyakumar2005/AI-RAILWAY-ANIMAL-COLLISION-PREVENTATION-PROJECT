@@ -44,7 +44,6 @@ fastjsonschema==2.21.1
 filelock==4.2.6
 Flask==3.0.3
 Flask-Mail==0.10.0
-Flask-MySQLdb==2.0.0
 Flask-SQLAlchemy==3.1.1
 flatbuffers==25.9.23
 fonttools==4.59.0
@@ -127,9 +126,6 @@ ml_dtypes==0.5.4
 multidict==6.6.3
 multitasking==0.0.13
 mypy_extensions==1.1.0
-mysql-connector==2.2.9
-mysql-connector-python==9.4.0
-mysqlclient==2.2.7
 namex==0.1.0
 narwhals==2.23.0
 nbclient==0.10.2
@@ -168,7 +164,6 @@ pydeck==0.9.3
 Pygments==2.19.2
 PyJWT==2.10.1
 pylance==0.12.3
-PyMySQL==1.1.1
 pyparsing==3.2.3
 pypdf==6.21.4
 python-dateutil==2.9.0.post0

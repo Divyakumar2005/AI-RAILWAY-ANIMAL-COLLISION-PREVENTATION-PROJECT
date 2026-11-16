@@ -6,4 +6,5 @@ reportlab>=4.1.0
 python-dotenv>=1.0.1
 pandas>=2.2.0
 numpy>=1.26.0
+scikit-learn>=1.5.0
 
